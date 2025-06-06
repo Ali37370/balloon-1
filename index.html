@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <title>تحدي البالونات 🎈</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      overflow: hidden;
+      margin: 0;
+      padding: 0;
+    }
+
+    h1 {
+      margin-top: 20px;
+      font-size: 2em;
+    }
+
+    .balloon {
+      position: absolute;
+      width: 30px;
+      height: 40px;
+      background-color: #ff6f61;
+      border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+      animation: float 5s ease-in-out infinite;
+      cursor: pointer;
+      transition: transform 0.2s ease;
+    }
+
+    .balloon::after {
+      content: "";
+      position: absolute;
+      bottom: -20px;
+      left: 50%;
+      width: 2px;
+      height: 20px;
+      background: #ccc;
+    }
+
+    @keyframes float {
+      0% { transform: translateY(0); }
+      50% { transform: translateY(-200px); }
+      100% { transform: translateY(0); }
+    }
+
+    .counter {
+      margin-top: 10px;
+      font-size: 1.5em;
+      color: yellow;
+    }
+
+    .question {
+      margin-top: 30px;
+    }
+
+    input {
+      padding: 10px;
+      font-size: 1em;
+      width: 60px;
+      text-align: center;
+      border-radius: 10px;
+      border: none;
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 1em;
+      margin-right: 10px;
+      border: none;
+      border-radius: 10px;
+      background-color: #ff6f61;
+      color: white;
+      cursor: pointer;
+    }
+
+    #message {
+      margin-top: 20px;
+      color: yellow;
+    }
+
+    #countdown {
+      font-size: 2em;
+      margin-top: 30px;
+      display: none;
+      color: lime;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🎈 اضغط على كل البالونات!</h1>
+  <div class="counter">💥 عدد البالونات المنفجرة: <span id="count">0</span> / 16</div>
+  <div class="question" style="display: none;">
+    <h2>كم عدد البالونات في هذا اليوم؟</h2>
+    <input type="number" id="userAnswer" placeholder="اكتب العدد">
+    <button onclick="checkAnswer()">تحقق</button>
+    <div id="message"></div>
+  </div>
+  <div id="countdown">⏳ يبدأ الاحتفال خلال: 5</div>
+
+  <script>
+    let exploded = 0;
+    const total = 16;
+    const countDisplay = document.getElementById("count");
+    const questionBox = document.querySelector(".question");
+    const countdown = document.getElementById("countdown");
+    const message = document.getElementById("message");
+
+    for (let i = 0; i < total; i++) {
+      const balloon = document.createElement('div');
+      balloon.className = 'balloon';
+      balloon.style.left = Math.random() * 100 + 'vw';
+      balloon.style.backgroundColor = `hsl(${Math.random() * 360}, 70%, 60%)`;
+      balloon.style.animationDelay = Math.random() * 5 + 's';
+
+      balloon.onclick = () => {
+        balloon.remove();
+        exploded++;
+        countDisplay.textContent = exploded;
+        if (exploded === total) {
+          questionBox.style.display = "block";
+        }
+      };
+
+      document.body.appendChild(balloon);
+    }
+
+    function checkAnswer() {
+      const answer = document.getElementById("userAnswer").value;
+
+      if (parseInt(answer) === 16) {
+        message.innerHTML = "✅ إجابة صحيحة! يبدأ العد التنازلي...";
+        questionBox.style.display = "none";
+        countdown.style.display = "block";
+
+        let timeLeft = 5;
+        countdown.innerHTML = `⏳ يبدأ الاحتفال خلال: ${timeLeft}`;
+
+        const timer = setInterval(() => {
+          timeLeft--;
+          countdown.innerHTML = `⏳ يبدأ الاحتفال خلال: ${timeLeft}`;
+          if (timeLeft <= 0) {
+            clearInterval(timer);
+            window.location.href = "celebration.html";
+          }
+        }, 1000);
+      } else {
+        message.innerHTML = "❌ إجابة خاطئة! حاول مرة أخرى.";
+      }
+    }
+  </script>
+
+</body>
+</html>
