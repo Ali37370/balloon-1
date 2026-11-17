@@ -1,1 +1,23 @@
 tts assets/test_hello4.mp3 0 
+img ok assets/lineup.png 5420340
+img ok assets/avatar.png 4421624
+img ok assets/A.png 1212192
+img ok assets/B.png 1198659
+img ok assets/C.png 1230340
+img ok assets/D.png 1198693
+img ok assets/E.png 1257199
+img ok assets/F.png 1209889
+img ok assets/G.png 1218082
+img ok assets/H.png 1254718
+tts assets/intro1.mp3 0 
+tts assets/vA.mp3 0 
+tts assets/vB.mp3 0 
+tts assets/vC.mp3 0 
+tts assets/vD.mp3 0 
+tts assets/outro1.mp3 0 
+tts assets/intro2.mp3 0 
+tts assets/vE.mp3 0 
+tts assets/vF.mp3 0 
+tts assets/vG.mp3 0 
+tts assets/vH.mp3 0 
+tts assets/outro2.mp3 0 
