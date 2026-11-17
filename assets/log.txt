@@ -21,3 +21,5 @@ tts assets/vF.mp3 0
 tts assets/vG.mp3 0 
 tts assets/vH.mp3 0 
 tts assets/outro2.mp3 0 
+img ok assets/Fredoka.ttf 159184
+img ok assets/Baloo2.ttf 683200
