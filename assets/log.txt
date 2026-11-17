@@ -1,0 +1,6 @@
+tts assets/test_hello3.mp3 1 ait self._coro
+                              ^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/aiohttp/client.py", line 1329, in _ws_connect
+    raise WSServerHandshakeError(
+aiohttp.client_exceptions.WSServerHandshakeError: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&Sec-MS-GEC=7945B8CEE2A41FA6111764939D3F40F82CFD9D51099E41859AFA1A23263D0D17&Sec-MS-GEC-Version=1-130.0.2849.68&ConnectionId=4ded4f71325146a88ea81430193867c7'
+ 
