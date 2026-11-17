@@ -1,6 +1,0 @@
-tts assets/test_hello2.mp3 2 usage: edge-tts [-h] [-t TEXT] [-f FILE] [-v VOICE] [-l] [--rate RATE]
-                [--volume VOLUME] [--pitch PITCH]
-                [--words-in-cue WORDS_IN_CUE] [--write-media WRITE_MEDIA]
-                [--write-subtitles WRITE_SUBTITLES] [--proxy PROXY]
-edge-tts: error: argument --rate: expected one argument
- 

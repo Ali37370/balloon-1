@@ -17,5 +17,5 @@ for f in sorted(glob.glob('jobs/*.json')):
     for it in job.get('tts', []):
         out = os.path.join('assets', it['name'])
         if os.path.exists(out): continue
-        cmd = ['edge-tts', '--voice', it.get('voice', 'en-US-AnaNeural'), '--rate', it.get('rate', '-5%'), '--pitch', it.get('pitch', '+0Hz'), '--text', it['text'], '--write-media', out]
+        cmd = ['edge-tts', '--voice', it.get('voice', 'en-US-AnaNeural'), '--rate='+it.get('rate', '-5%'), '--pitch='+it.get('pitch', '+0Hz'), '--text', it['text'], '--write-media', out]
         r = subprocess.run(cmd, capture_output=True, text=True); P('tts', out, r.returncode, r.stderr[-600:], r.stdout[-300:])
