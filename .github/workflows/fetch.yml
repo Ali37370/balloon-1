@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: '3.11'}
-      - run: pip install edge-tts==7.0.2 || pip install edge-tts
+      - run: pip install -U edge-tts gTTS
       - name: fetch and tts
         run: python jobs/run.py
       - name: commit
