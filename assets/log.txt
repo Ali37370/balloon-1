@@ -23,3 +23,23 @@ tts assets/vH.mp3 0
 tts assets/outro2.mp3 0 
 img ok assets/Fredoka.ttf 159184
 img ok assets/Baloo2.ttf 683200
+img ok assets/bg_street.png 1367452
+img ok assets/cI.png 1128841
+img ok assets/cJ.png 1078530
+img ok assets/cK.png 1150584
+img ok assets/cL.png 1246957
+img ok assets/group_cut.png 1420629
+tts assets/intro3.mp3 0 
+tts assets/wI1.mp3 0 
+tts assets/wI2.mp3 0 
+tts assets/wI3.mp3 0 
+tts assets/wJ1.mp3 0 
+tts assets/wJ2.mp3 0 
+tts assets/wJ3.mp3 0 
+tts assets/wK1.mp3 0 
+tts assets/wK2.mp3 0 
+tts assets/wK3.mp3 0 
+tts assets/wL1.mp3 0 
+tts assets/wL2.mp3 0 
+tts assets/wL3.mp3 0 
+tts assets/outro3.mp3 0 
