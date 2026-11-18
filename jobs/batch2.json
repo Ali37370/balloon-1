@@ -1,0 +1,542 @@
+{
+"images": [
+{
+"name": "cM.png",
+"url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-nano-banana-2.1/images/9749ee66-decb-4cfe-8f8e-8d9fe6e7aaed/4dd66284-7876-4843-978c-d91d5f22b059/3D_animated_character_render__full_body__a_cute_chubby_baby_.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZmYyOWVjZjEwY2M2ZWYzMiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTEyMzMxM30.vK2_d-50_60nQvV-p-pgjU1LrSjWp4WhM_iOPNNn8Gs"
+},
+{
+"name": "cN.png",
+"url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-nano-banana-2.1/images/34f19cd5-3e91-41c8-b009-51f25d0672f1/f0bd556c-34cd-4d10-a496-f45cffd91895/3D_animated_character_render__full_body__the_navy_and_white_.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNTNhZWQ5NTRjMzg2YmFhOCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTEwMDYyOH0.r3YgKPqTF92zlJyCDZ1k63Ef2bugXGu6QSrYfOqRqHg"
+},
+{
+"name": "cO.png",
+"url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-nano-banana-2.1/images/057ec4d8-7878-4b10-a3e8-5b63a97debef/626a7e25-30ab-4294-8564-2cf176faeef7/3D_animated_character_render__full_body__the_orange_tabby_ki.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMDVlMGE0NDNmNDZmNWM5MyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTE1ODU5NX0.b7ZgcEQTlbroh3OGwa9ySOsnhmo3q0l9dFr2GrP4esw"
+},
+{
+"name": "cP.png",
+"url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-nano-banana-2.1/images/e7524023-3cdf-4e29-905e-d9a5546dde6a/f1030edf-765c-4426-9ccc-b945d503cf5a/3D_animated_character_render__full_body__the_navy_and_white_.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOWY2MmJmMmQ2N2NjNWIzNCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTEwMTYxM30.jhLWvGwLxxNaG4lITZ8MUkgl0ppn90WWciEVJbNYIY8"
+},
+{
+"name": "cQ.png",
+"url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-nano-banana-2.1/images/5fb4df11-d5d3-4765-a8f4-61a4721655fb/b1ed12d2-e9a5-4dc7-a317-8f4ee718cb5a/3D_animated_character_render__full_body__the_orange_tabby_ki.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYmFjYjVlZmY4ZmJlY2QwMSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTEyMjMwM30.h-eupK1RnWcNVoOE8ZSIRYOCK95vNcBD4bwfcmZsgKQ"
+},
+{
+"name": "cR.png",
+"url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-nano-banana-2.1/images/b2dc8b9b-0e8e-4028-be37-b31dc56e3a6a/06e5d35f-79fd-46d4-a39e-6bdc5c1ab5d7/3D_animated_character_render__full_body__the_white_bunny_fro.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOTRhMDhhYjgzYWJiNTEzZiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTA5MTY0MH0.M7HkOskPywolXs9U_acBvVpn9Gd6sQCDOUP7XYyVx5A"
+},
+{
+"name": "cS.png",
+"url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-nano-banana-2.1/images/dd8b507e-e095-4633-b52a-b9e3e74fad3d/0e4a7eb0-5513-4fdd-9215-c9925dffa9fb/3D_animated_character_render__full_body__the_navy_and_white_.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYTA2NTIzMTc5ZWZhZjFlYSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTEwMTA3OX0.a2kIsX4VHjIiUXZmlRJSTW6KTKmGXdMIPuAYinGZy4E"
+},
+{
+"name": "cT.png",
+"url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-nano-banana-2.1/images/9e653268-4de3-4025-90f1-224d3debf130/7715c21f-362f-4000-9120-9958ee12051c/3D_animated_character_render__full_body__the_white_bunny_fro.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNjIwMDMwYjFhOWNkNmIyYiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTEyMDQzM30.MDxKuh356rRd3k2JdFY2moKk-r7lileqXexlSmsOWsI"
+},
+{
+"name": "cU.png",
+"url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-nano-banana-2.1/images/a1170186-39e0-4712-abbe-ac6aac6454d1/e53240c6-342c-4797-a98e-c5175ed65320/3D_animated_character_render__full_body__the_orange_tabby_ki.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOWNmNjY1OTI1MGY4NjgzZiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTE0MDc1NH0.a7HGRs5hxI0Vc5EecyO9JT8og1JuuvCoJgD3rH--GAo"
+},
+{
+"name": "cV.png",
+"url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-nano-banana-2.1/images/4f346121-b44c-4772-9dfe-cab92fe3d1b3/1b334b56-e5d9-4236-980f-a5a107100ae2/3D_animated_character_render__full_body__the_navy_and_white_.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNDgzYTNlYzczZGI2MjBkNiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTE0OTUxMX0.8uC151xhmZ0FGaR1r_nSfSlUjCFlqZagXJwgfKtQ6w4"
+},
+{
+"name": "cW.png",
+"url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-nano-banana-2.1/images/ef8bf639-1130-4c11-8fe4-e3f32c6a359b/35b1ee0e-58b3-457b-a95d-e6235a04fe0c/3D_animated_character_render__full_body__the_cute_baby_lion_.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNGU0M2UyZTA2ZTE2OGM4YiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTA5NzQ0MH0.1gJKjOT9BiCZwk71EidB8q8GRaqnTPH6A32JVk9k60c"
+},
+{
+"name": "cX.png",
+"url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-nano-banana-2.1/images/548b37c9-673f-4e66-a80c-dc5652a02963/a02aad6f-992f-46f7-b46b-df75668b484d/3D_animated_character_render__full_body__the_white_bunny_fro.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNTM5ZTRiZWU5YTU3M2RkMyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTEzOTA1NH0.Z93lFUTFDa8A0X5dYVlV7ksL7wuZtZ8rMnNdgo6K8_A"
+},
+{
+"name": "cY.png",
+"url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-nano-banana-2.1/images/2d9420a6-0afb-4bc2-aabd-e53d909b8c90/b24586f9-1917-42eb-a4d9-fa6665971f7b/3D_animated_character_render__full_body__the_orange_tabby_ki.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNzNmNTE1ODg2YjgxNjUzZiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTEwNTY3Mn0.Vv9Zwu2dU9OzvnPP2Ccopm83m8RZ0XUFu7QRrzxPsB0"
+},
+{
+"name": "cZ.png",
+"url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-nano-banana-2.1/images/0a06f890-b4e8-4e4e-acb8-84d7db8476dd/8e6584aa-979c-47b8-9df0-2ea76a53fd88/3D_animated_character_render__full_body__a_cute_chubby_baby_.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZTNkNmZkMDZmZWQ1MTA3MSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTE0MTUxMH0.bXdjIrvp9XsWX-Png7WBLaxgi6ILV2rg3TfpakpxEZ4"
+}
+],
+"tts": [
+{
+"name": "wA1.mp3",
+"text": "A!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wA2.mp3",
+"text": "A is for apple!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wA3.mp3",
+"text": "Crunchy, crunchy, apple!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wB1.mp3",
+"text": "B!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wB2.mp3",
+"text": "B is for ball!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wB3.mp3",
+"text": "Bounce, bounce, ball!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wC1.mp3",
+"text": "C!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wC2.mp3",
+"text": "C is for cat!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wC3.mp3",
+"text": "Meow, meow, cat!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wD1.mp3",
+"text": "D!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wD2.mp3",
+"text": "D is for duck!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wD3.mp3",
+"text": "Quack, quack, duck!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wE1.mp3",
+"text": "E!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wE2.mp3",
+"text": "E is for egg!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wE3.mp3",
+"text": "Crack, crack, egg!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wF1.mp3",
+"text": "F!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wF2.mp3",
+"text": "F is for fish!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wF3.mp3",
+"text": "Swim, swim, fish!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wG1.mp3",
+"text": "G!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wG2.mp3",
+"text": "G is for grapes!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wG3.mp3",
+"text": "Yummy, yummy, grapes!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wH1.mp3",
+"text": "H!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wH2.mp3",
+"text": "H is for hat!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wH3.mp3",
+"text": "Hats on, hat!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wM1.mp3",
+"text": "M!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wM2.mp3",
+"text": "M is for monkey!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wM3.mp3",
+"text": "Ooh ooh, monkey!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wN1.mp3",
+"text": "N!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wN2.mp3",
+"text": "N is for nest!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wN3.mp3",
+"text": "Cozy, cozy, nest!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wO1.mp3",
+"text": "O!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wO2.mp3",
+"text": "O is for orange!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wO3.mp3",
+"text": "Juicy, juicy, orange!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wP1.mp3",
+"text": "P!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wP2.mp3",
+"text": "P is for penguin!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wP3.mp3",
+"text": "Waddle, waddle, penguin!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wQ1.mp3",
+"text": "Q!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wQ2.mp3",
+"text": "Q is for queen!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wQ3.mp3",
+"text": "Hello, hello, queen!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wR1.mp3",
+"text": "R!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wR2.mp3",
+"text": "R is for rainbow!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wR3.mp3",
+"text": "Colors, colors, rainbow!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wS1.mp3",
+"text": "S!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wS2.mp3",
+"text": "S is for sun!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wS3.mp3",
+"text": "Shine, shine, sun!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wT1.mp3",
+"text": "T!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wT2.mp3",
+"text": "T is for train!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wT3.mp3",
+"text": "Choo choo, train!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wU1.mp3",
+"text": "U!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wU2.mp3",
+"text": "U is for umbrella!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wU3.mp3",
+"text": "Drip, drop, umbrella!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wV1.mp3",
+"text": "V!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wV2.mp3",
+"text": "V is for violin!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wV3.mp3",
+"text": "La la, violin!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wW1.mp3",
+"text": "W!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wW2.mp3",
+"text": "W is for watermelon!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wW3.mp3",
+"text": "Yummy, yummy, watermelon!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wX1.mp3",
+"text": "X!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wX2.mp3",
+"text": "X is for xylophone!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wX3.mp3",
+"text": "Ding, ding, xylophone!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wY1.mp3",
+"text": "Y!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wY2.mp3",
+"text": "Y is for yo-yo!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wY3.mp3",
+"text": "Up and down, yo-yo!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wZ1.mp3",
+"text": "Z!",
+"rate": "-5%",
+"pitch": "+6Hz"
+},
+{
+"name": "wZ2.mp3",
+"text": "Z is for zebra!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "wZ3.mp3",
+"text": "Stripes, stripes, zebra!",
+"rate": "-8%",
+"pitch": "+6Hz"
+},
+{
+"name": "intro4.mp3",
+"text": "Hi friends! Let's sing and learn A, B, C, D!",
+"rate": "-6%",
+"pitch": "+6Hz"
+},
+{
+"name": "outro4.mp3",
+"text": "Yay! A, B, C, D! Let's sing again tomorrow on Singing Street!",
+"rate": "-6%",
+"pitch": "+6Hz"
+},
+{
+"name": "intro5.mp3",
+"text": "Hi friends! Let's sing and learn E, F, G, H!",
+"rate": "-6%",
+"pitch": "+6Hz"
+},
+{
+"name": "outro5.mp3",
+"text": "Yay! E, F, G, H! Let's sing again tomorrow on Singing Street!",
+"rate": "-6%",
+"pitch": "+6Hz"
+},
+{
+"name": "intro6.mp3",
+"text": "Hi friends! Let's sing and learn M, N, O, P!",
+"rate": "-6%",
+"pitch": "+6Hz"
+},
+{
+"name": "outro6.mp3",
+"text": "Yay! M, N, O, P! Let's sing again tomorrow on Singing Street!",
+"rate": "-6%",
+"pitch": "+6Hz"
+},
+{
+"name": "intro7.mp3",
+"text": "Hi friends! Let's sing and learn Q, R, S, T!",
+"rate": "-6%",
+"pitch": "+6Hz"
+},
+{
+"name": "outro7.mp3",
+"text": "Yay! Q, R, S, T! Let's sing again tomorrow on Singing Street!",
+"rate": "-6%",
+"pitch": "+6Hz"
+},
+{
+"name": "intro8.mp3",
+"text": "Hi friends! Let's sing and learn U, V, W, X!",
+"rate": "-6%",
+"pitch": "+6Hz"
+},
+{
+"name": "outro8.mp3",
+"text": "Yay! U, V, W, X! Let's sing again tomorrow on Singing Street!",
+"rate": "-6%",
+"pitch": "+6Hz"
+},
+{
+"name": "intro9.mp3",
+"text": "Hi friends! Let's sing and learn Y, Z!",
+"rate": "-6%",
+"pitch": "+6Hz"
+},
+{
+"name": "outro9.mp3",
+"text": "Yay! Y, Z! Let's sing again tomorrow on Singing Street!",
+"rate": "-6%",
+"pitch": "+6Hz"
+},
+{
+"name": "introAZ.mp3",
+"text": "Hi friends! Welcome to Singing Street! Let's sing the whole alphabet, from A to Z!",
+"rate": "-6%",
+"pitch": "+6Hz"
+},
+{
+"name": "outroAZ.mp3",
+"text": "Hooray! You know all your letters, from A to Z! Great job, friends! See you next time on Singing Street!",
+"rate": "-6%",
+"pitch": "+6Hz"
+}
+]
+}
