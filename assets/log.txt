@@ -43,3 +43,97 @@ tts assets/wL1.mp3 0
 tts assets/wL2.mp3 0 
 tts assets/wL3.mp3 0 
 tts assets/outro3.mp3 0 
+img ok assets/cM.png 1157984
+img ok assets/cN.png 1215404
+img ok assets/cO.png 1144111
+img ok assets/cP.png 1196893
+img ok assets/cQ.png 1120103
+img ok assets/cR.png 1148941
+img ok assets/cS.png 1021165
+img ok assets/cT.png 1162782
+img ok assets/cU.png 1104409
+img ok assets/cV.png 1034107
+img ok assets/cW.png 1251768
+img ok assets/cX.png 1084714
+img ok assets/cY.png 1127588
+img ok assets/cZ.png 1228965
+tts assets/wA1.mp3 0 
+tts assets/wA2.mp3 0 
+tts assets/wA3.mp3 0 
+tts assets/wB1.mp3 0 
+tts assets/wB2.mp3 0 
+tts assets/wB3.mp3 0 
+tts assets/wC1.mp3 0 
+tts assets/wC2.mp3 0 
+tts assets/wC3.mp3 0 
+tts assets/wD1.mp3 0 
+tts assets/wD2.mp3 0 
+tts assets/wD3.mp3 0 
+tts assets/wE1.mp3 0 
+tts assets/wE2.mp3 0 
+tts assets/wE3.mp3 0 
+tts assets/wF1.mp3 0 
+tts assets/wF2.mp3 0 
+tts assets/wF3.mp3 0 
+tts assets/wG1.mp3 0 
+tts assets/wG2.mp3 0 
+tts assets/wG3.mp3 0 
+tts assets/wH1.mp3 0 
+tts assets/wH2.mp3 0 
+tts assets/wH3.mp3 0 
+tts assets/wM1.mp3 0 
+tts assets/wM2.mp3 0 
+tts assets/wM3.mp3 0 
+tts assets/wN1.mp3 0 
+tts assets/wN2.mp3 0 
+tts assets/wN3.mp3 0 
+tts assets/wO1.mp3 0 
+tts assets/wO2.mp3 0 
+tts assets/wO3.mp3 0 
+tts assets/wP1.mp3 0 
+tts assets/wP2.mp3 0 
+tts assets/wP3.mp3 0 
+tts assets/wQ1.mp3 0 
+tts assets/wQ2.mp3 0 
+tts assets/wQ3.mp3 0 
+tts assets/wR1.mp3 0 
+tts assets/wR2.mp3 0 
+tts assets/wR3.mp3 0 
+tts assets/wS1.mp3 0 
+tts assets/wS2.mp3 0 
+tts assets/wS3.mp3 0 
+tts assets/wT1.mp3 0 
+tts assets/wT2.mp3 0 
+tts assets/wT3.mp3 0 
+tts assets/wU1.mp3 0 
+tts assets/wU2.mp3 0 
+tts assets/wU3.mp3 0 
+tts assets/wV1.mp3 0 
+tts assets/wV2.mp3 0 
+tts assets/wV3.mp3 0 
+tts assets/wW1.mp3 0 
+tts assets/wW2.mp3 0 
+tts assets/wW3.mp3 0 
+tts assets/wX1.mp3 0 
+tts assets/wX2.mp3 0 
+tts assets/wX3.mp3 0 
+tts assets/wY1.mp3 0 
+tts assets/wY2.mp3 0 
+tts assets/wY3.mp3 0 
+tts assets/wZ1.mp3 0 
+tts assets/wZ2.mp3 0 
+tts assets/wZ3.mp3 0 
+tts assets/intro4.mp3 0 
+tts assets/outro4.mp3 0 
+tts assets/intro5.mp3 0 
+tts assets/outro5.mp3 0 
+tts assets/intro6.mp3 0 
+tts assets/outro6.mp3 0 
+tts assets/intro7.mp3 0 
+tts assets/outro7.mp3 0 
+tts assets/intro8.mp3 0 
+tts assets/outro8.mp3 0 
+tts assets/intro9.mp3 0 
+tts assets/outro9.mp3 0 
+tts assets/introAZ.mp3 0 
+tts assets/outroAZ.mp3 0 
