@@ -1,3 +1,4 @@
+import sys
 import numpy as np, cv2
 from PIL import Image, ImageFilter
 from scipy import ndimage
@@ -26,10 +27,12 @@ def cut(src,dst):
         big=[i+1 for i,s in enumerate(sizes) if s>0.02*sizes.max()]
         m=np.isin(lab,big)
     m=ndimage.binary_fill_holes(m)
+    if CLOSE: m=ndimage.binary_fill_holes(ndimage.binary_closing(m,iterations=CLOSE))
     rows=np.where(m.any(1))[0]; top,bot=rows[0],rows[-1]; H=bot-top
     band=m[int(top+0.55*H):int(top+0.82*H)]
     cols=np.where(band.any(0))[0]; x0,x1=cols[0]-12,cols[-1]+12
     low=int(top+0.82*H); m[low:,:max(0,x0)]=False; m[low:,x1:]=False
     a=Image.fromarray((m*255).astype(np.uint8)).filter(ImageFilter.GaussianBlur(1.3))
     out=Image.open(src).convert('RGBA'); out.putalpha(a); out=out.crop(out.getbbox()); out.save(dst); print(dst,out.size)
-for c in 'IJKL': cut(f'/home/claude/balloon-1/assets/c{c}.png',f'/home/claude/ss/cut_{c}.png')
+CLOSE=int(sys.argv[2]) if len(sys.argv)>2 else 0
+for c in sys.argv[1]: cut(f'/home/claude/balloon-1/assets/c{c}.png',f'/home/claude/ss/cut_{c}.png')
